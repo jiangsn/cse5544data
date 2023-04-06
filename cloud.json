@@ -1,0 +1,1422 @@
+[
+  {
+    "word": "adult",
+    "label": "D-age",
+    "size": 53
+  },
+  {
+    "word": "young adult",
+    "label": "D-age",
+    "size": 34
+  },
+  {
+    "word": "youth",
+    "label": "D-age",
+    "size": 26
+  },
+  {
+    "word": "age",
+    "label": "D-age",
+    "size": 24
+  },
+  {
+    "word": "adolescent",
+    "label": "D-age",
+    "size": 13
+  },
+  {
+    "word": "young people",
+    "label": "D-age",
+    "size": 12
+  },
+  {
+    "word": "student",
+    "label": "D-age",
+    "size": 10
+  },
+  {
+    "word": "youth mp",
+    "label": "D-age",
+    "size": 2
+  },
+  {
+    "word": "high school",
+    "label": "D-age",
+    "size": 2
+  },
+  {
+    "word": "18\u201329",
+    "label": "D-age",
+    "size": 1
+  },
+  {
+    "word": "18\u201325",
+    "label": "D-age",
+    "size": 1
+  },
+  {
+    "word": "12th grade",
+    "label": "D-age",
+    "size": 1
+  },
+  {
+    "word": "tobacco control",
+    "label": "P-reg",
+    "size": 13
+  },
+  {
+    "word": "smoke free",
+    "label": "P-reg",
+    "size": 13
+  },
+  {
+    "word": "policy",
+    "label": "P-reg",
+    "size": 5
+  },
+  {
+    "word": "enforcement",
+    "label": "P-reg",
+    "size": 1
+  },
+  {
+    "word": "regulations",
+    "label": "P-reg",
+    "size": 1
+  },
+  {
+    "word": "restrictions",
+    "label": "P-reg",
+    "size": 1
+  },
+  {
+    "word": "cessation strategies",
+    "label": "P-reg",
+    "size": 1
+  },
+  {
+    "word": "dose",
+    "label": "P-reg",
+    "size": 1
+  },
+  {
+    "word": "qualitative",
+    "label": "M-mth",
+    "size": 21
+  },
+  {
+    "word": "respondent",
+    "label": "M-mth",
+    "size": 16
+  },
+  {
+    "word": "sample",
+    "label": "M-mth",
+    "size": 15
+  },
+  {
+    "word": "survey",
+    "label": "M-mth",
+    "size": 13
+  },
+  {
+    "word": "nationally representative",
+    "label": "M-mth",
+    "size": 10
+  },
+  {
+    "word": "logistic regression",
+    "label": "M-mth",
+    "size": 10
+  },
+  {
+    "word": "self report",
+    "label": "M-mth",
+    "size": 5
+  },
+  {
+    "word": "same sex",
+    "label": "M-mth",
+    "size": 5
+  },
+  {
+    "word": "baseline",
+    "label": "M-mth",
+    "size": 5
+  },
+  {
+    "word": "cross sectional survey",
+    "label": "M-mth",
+    "size": 5
+  },
+  {
+    "word": "randomize",
+    "label": "M-mth",
+    "size": 5
+  },
+  {
+    "word": "online survey",
+    "label": "M-mth",
+    "size": 4
+  },
+  {
+    "word": "focus group",
+    "label": "M-mth",
+    "size": 3
+  },
+  {
+    "word": "control group",
+    "label": "M-mth",
+    "size": 3
+  },
+  {
+    "word": "synthesis",
+    "label": "M-mth",
+    "size": 3
+  },
+  {
+    "word": "pubmed",
+    "label": "M-mth",
+    "size": 3
+  },
+  {
+    "word": "systematic review",
+    "label": "M-mth",
+    "size": 3
+  },
+  {
+    "word": "treatment group",
+    "label": "M-mth",
+    "size": 2
+  },
+  {
+    "word": "longitudinal study",
+    "label": "M-mth",
+    "size": 2
+  },
+  {
+    "word": "confound",
+    "label": "M-mth",
+    "size": 2
+  },
+  {
+    "word": "at baseline",
+    "label": "M-mth",
+    "size": 2
+  },
+  {
+    "word": "qualitative mp",
+    "label": "M-mth",
+    "size": 2
+  },
+  {
+    "word": "randomize control trial",
+    "label": "M-mth",
+    "size": 2
+  },
+  {
+    "word": "at follow-up",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "longitudinal",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "questionnaires",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "comparative analysis",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "clinical trial",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "data extraction",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "follow-up",
+    "label": "M-mth",
+    "size": 1
+  },
+  {
+    "word": "sociodemographic",
+    "label": "D-soc",
+    "size": 11
+  },
+  {
+    "word": "demographic",
+    "label": "D-soc",
+    "size": 10
+  },
+  {
+    "word": "poverty",
+    "label": "D-soc",
+    "size": 6
+  },
+  {
+    "word": "sociodemographic characteristic",
+    "label": "D-soc",
+    "size": 3
+  },
+  {
+    "word": "socioeconomically disadvantage",
+    "label": "D-soc",
+    "size": 2
+  },
+  {
+    "word": "socioeconomic status",
+    "label": "D-soc",
+    "size": 2
+  },
+  {
+    "word": "low income",
+    "label": "D-soc",
+    "size": 2
+  },
+  {
+    "word": "married",
+    "label": "D-soc",
+    "size": 1
+  },
+  {
+    "word": "some college",
+    "label": "D-soc",
+    "size": 1
+  },
+  {
+    "word": "minority",
+    "label": "D-rac",
+    "size": 20
+  },
+  {
+    "word": "race ethnicity",
+    "label": "D-rac",
+    "size": 8
+  },
+  {
+    "word": "racial ethnic",
+    "label": "D-rac",
+    "size": 4
+  },
+  {
+    "word": "white",
+    "label": "D-rac",
+    "size": 4
+  },
+  {
+    "word": "asian american",
+    "label": "D-rac",
+    "size": 3
+  },
+  {
+    "word": "non hispanic",
+    "label": "D-rac",
+    "size": 2
+  },
+  {
+    "word": "hispanic",
+    "label": "D-rac",
+    "size": 2
+  },
+  {
+    "word": "black",
+    "label": "D-rac",
+    "size": 2
+  },
+  {
+    "word": "latinos",
+    "label": "D-rac",
+    "size": 2
+  },
+  {
+    "word": "english",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "non-hispanic white",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "latino",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "african american",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "ethnicity",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "ethnic",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "african americans",
+    "label": "D-rac",
+    "size": 1
+  },
+  {
+    "word": "30 day",
+    "label": "B-tme",
+    "size": 14
+  },
+  {
+    "word": "12 month",
+    "label": "B-tme",
+    "size": 5
+  },
+  {
+    "word": "6 month",
+    "label": "B-tme",
+    "size": 4
+  },
+  {
+    "word": "2017",
+    "label": "B-tme",
+    "size": 4
+  },
+  {
+    "word": "2013 2014",
+    "label": "B-tme",
+    "size": 4
+  },
+  {
+    "word": "3 month",
+    "label": "B-tme",
+    "size": 4
+  },
+  {
+    "word": "2013",
+    "label": "B-tme",
+    "size": 4
+  },
+  {
+    "word": "2014",
+    "label": "B-tme",
+    "size": 4
+  },
+  {
+    "word": "7 day",
+    "label": "B-tme",
+    "size": 3
+  },
+  {
+    "word": "1 month",
+    "label": "B-tme",
+    "size": 3
+  },
+  {
+    "word": "1 year",
+    "label": "B-tme",
+    "size": 3
+  },
+  {
+    "word": "2009 2010",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "1000",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "2018",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "2013 2016",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "2019",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "2005",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "18 year",
+    "label": "B-tme",
+    "size": 2
+  },
+  {
+    "word": "2013\u201314",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2000",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "1092",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2012\u20132013",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "8 weeks",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2384",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "\u226516 years",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2017\u20132018",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "3\u20136 months",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "3.66 years",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "1.34 years",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "past month",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2001",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2000\u20132001",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "1960",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2210",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2009",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2010",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2011\u20132014",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2050",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2005\u20132050",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "26 years",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "2015",
+    "label": "B-tme",
+    "size": 1
+  },
+  {
+    "word": "social medium",
+    "label": "P-red",
+    "size": 5
+  },
+  {
+    "word": "tobacco epidemic",
+    "label": "P-red",
+    "size": 3
+  },
+  {
+    "word": "tobacco advertising",
+    "label": "P-red",
+    "size": 1
+  },
+  {
+    "word": "monitor",
+    "label": "P-red",
+    "size": 1
+  },
+  {
+    "word": "rate",
+    "label": "B-prv",
+    "size": 17
+  },
+  {
+    "word": "prevalence",
+    "label": "B-prv",
+    "size": 14
+  },
+  {
+    "word": "smoke prevalence",
+    "label": "B-prv",
+    "size": 11
+  },
+  {
+    "word": "overall prevalence",
+    "label": "B-prv",
+    "size": 1
+  },
+  {
+    "word": "united states",
+    "label": "L-loc",
+    "size": 9
+  },
+  {
+    "word": "california",
+    "label": "L-loc",
+    "size": 8
+  },
+  {
+    "word": "usa",
+    "label": "L-loc",
+    "size": 6
+  },
+  {
+    "word": "england",
+    "label": "L-loc",
+    "size": 4
+  },
+  {
+    "word": "missouri",
+    "label": "L-loc",
+    "size": 3
+  },
+  {
+    "word": "texas",
+    "label": "L-loc",
+    "size": 2
+  },
+  {
+    "word": "australia",
+    "label": "L-loc",
+    "size": 2
+  },
+  {
+    "word": "las vegas",
+    "label": "L-loc",
+    "size": 2
+  },
+  {
+    "word": "canada",
+    "label": "L-loc",
+    "size": 2
+  },
+  {
+    "word": "uk",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "u.s.3",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "u.s.",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "wisconsin",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "toronto",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "chicago",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "ottawa",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "san francisco",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "new zealand",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "houston",
+    "label": "L-loc",
+    "size": 1
+  },
+  {
+    "word": "tobacco product",
+    "label": "T-com",
+    "size": 39
+  },
+  {
+    "word": "cigarette",
+    "label": "T-com",
+    "size": 31
+  },
+  {
+    "word": "cigar",
+    "label": "T-com",
+    "size": 10
+  },
+  {
+    "word": "hookah",
+    "label": "T-com",
+    "size": 4
+  },
+  {
+    "word": "combustible tobacco",
+    "label": "T-com",
+    "size": 1
+  },
+  {
+    "word": "associate with",
+    "label": "R-rel",
+    "size": 28
+  },
+  {
+    "word": "more",
+    "label": "R-rel",
+    "size": 22
+  },
+  {
+    "word": "less",
+    "label": "R-rel",
+    "size": 19
+  },
+  {
+    "word": "association between",
+    "label": "R-rel",
+    "size": 12
+  },
+  {
+    "word": "more likely to",
+    "label": "R-rel",
+    "size": 12
+  },
+  {
+    "word": "correlate of",
+    "label": "R-rel",
+    "size": 10
+  },
+  {
+    "word": "relate to",
+    "label": "R-rel",
+    "size": 8
+  },
+  {
+    "word": "relationship between",
+    "label": "R-rel",
+    "size": 8
+  },
+  {
+    "word": "less likely to",
+    "label": "R-rel",
+    "size": 7
+  },
+  {
+    "word": "significantly high",
+    "label": "R-rel",
+    "size": 4
+  },
+  {
+    "word": "association of",
+    "label": "R-rel",
+    "size": 4
+  },
+  {
+    "word": "predictor of",
+    "label": "R-rel",
+    "size": 3
+  },
+  {
+    "word": "factor associate with",
+    "label": "R-rel",
+    "size": 3
+  },
+  {
+    "word": "relative to",
+    "label": "R-rel",
+    "size": 3
+  },
+  {
+    "word": "correlate",
+    "label": "R-rel",
+    "size": 2
+  },
+  {
+    "word": "less than",
+    "label": "R-rel",
+    "size": 1
+  },
+  {
+    "word": "higher than",
+    "label": "R-rel",
+    "size": 1
+  },
+  {
+    "word": "more than",
+    "label": "R-rel",
+    "size": 1
+  },
+  {
+    "word": "no differences",
+    "label": "R-rel",
+    "size": 1
+  },
+  {
+    "word": "risk",
+    "label": "B-pcp",
+    "size": 35
+  },
+  {
+    "word": "tobacco dependence",
+    "label": "B-pcp",
+    "size": 4
+  },
+  {
+    "word": "addiction",
+    "label": "B-pcp",
+    "size": 2
+  },
+  {
+    "word": "burden",
+    "label": "B-pcp",
+    "size": 1
+  },
+  {
+    "word": "appeal",
+    "label": "B-pcp",
+    "size": 1
+  },
+  {
+    "word": "tobacco use",
+    "label": "B-use",
+    "size": 47
+  },
+  {
+    "word": "cigarette smoking",
+    "label": "B-use",
+    "size": 14
+  },
+  {
+    "word": "smoking status",
+    "label": "B-use",
+    "size": 14
+  },
+  {
+    "word": "current smoking",
+    "label": "B-use",
+    "size": 10
+  },
+  {
+    "word": "e cigarette use",
+    "label": "B-use",
+    "size": 8
+  },
+  {
+    "word": "initiation",
+    "label": "B-use",
+    "size": 7
+  },
+  {
+    "word": "substance use",
+    "label": "B-use",
+    "size": 6
+  },
+  {
+    "word": "smoking behavior",
+    "label": "B-use",
+    "size": 5
+  },
+  {
+    "word": "current use",
+    "label": "B-use",
+    "size": 4
+  },
+  {
+    "word": "smoking rate",
+    "label": "B-use",
+    "size": 3
+  },
+  {
+    "word": "former smoker",
+    "label": "B-use",
+    "size": 2
+  },
+  {
+    "word": "tobacco smoking",
+    "label": "B-use",
+    "size": 1
+  },
+  {
+    "word": "daily smoking",
+    "label": "B-use",
+    "size": 1
+  },
+  {
+    "word": "never smokers",
+    "label": "B-use",
+    "size": 1
+  },
+  {
+    "word": "smoke cessation",
+    "label": "B-ces",
+    "size": 33
+  },
+  {
+    "word": "cessation",
+    "label": "B-ces",
+    "size": 25
+  },
+  {
+    "word": "relapse",
+    "label": "B-ces",
+    "size": 14
+  },
+  {
+    "word": "quit",
+    "label": "B-ces",
+    "size": 8
+  },
+  {
+    "word": "abstinence",
+    "label": "B-ces",
+    "size": 8
+  },
+  {
+    "word": "quit rate",
+    "label": "B-ces",
+    "size": 7
+  },
+  {
+    "word": "quit attempt",
+    "label": "B-ces",
+    "size": 5
+  },
+  {
+    "word": "advice to quit",
+    "label": "B-ces",
+    "size": 1
+  },
+  {
+    "word": "bisexual",
+    "label": "D-sxo",
+    "size": 69
+  },
+  {
+    "word": "gay",
+    "label": "D-sxo",
+    "size": 53
+  },
+  {
+    "word": "lgbt",
+    "label": "D-sxo",
+    "size": 44
+  },
+  {
+    "word": "lesbian",
+    "label": "D-sxo",
+    "size": 41
+  },
+  {
+    "word": "sexual orientation",
+    "label": "D-sxo",
+    "size": 30
+  },
+  {
+    "word": "heterosexual",
+    "label": "D-sxo",
+    "size": 28
+  },
+  {
+    "word": "lgb",
+    "label": "D-sxo",
+    "size": 26
+  },
+  {
+    "word": "sexual minority",
+    "label": "D-sxo",
+    "size": 13
+  },
+  {
+    "word": "lgbtq",
+    "label": "D-sxo",
+    "size": 10
+  },
+  {
+    "word": "non lgbt",
+    "label": "D-sxo",
+    "size": 8
+  },
+  {
+    "word": "lgbti",
+    "label": "D-sxo",
+    "size": 5
+  },
+  {
+    "word": "question",
+    "label": "D-sxo",
+    "size": 4
+  },
+  {
+    "word": "queer",
+    "label": "D-sxo",
+    "size": 4
+  },
+  {
+    "word": "same sex",
+    "label": "D-sxo",
+    "size": 2
+  },
+  {
+    "word": "non lgb",
+    "label": "D-sxo",
+    "size": 2
+  },
+  {
+    "word": "non lgbtq",
+    "label": "D-sxo",
+    "size": 2
+  },
+  {
+    "word": "straight",
+    "label": "D-sxo",
+    "size": 2
+  },
+  {
+    "word": "glbt",
+    "label": "D-sxo",
+    "size": 1
+  },
+  {
+    "word": "nicotine",
+    "label": "C-chm",
+    "size": 18
+  },
+  {
+    "word": "cannabis",
+    "label": "C-chm",
+    "size": 2
+  },
+  {
+    "word": "intervention",
+    "label": "P-trt",
+    "size": 52
+  },
+  {
+    "word": "quitline",
+    "label": "P-trt",
+    "size": 2
+  },
+  {
+    "word": "counseling",
+    "label": "P-trt",
+    "size": 2
+  },
+  {
+    "word": "nicotine replacement therapy",
+    "label": "P-trt",
+    "size": 2
+  },
+  {
+    "word": "tobacco treatment",
+    "label": "P-trt",
+    "size": 1
+  },
+  {
+    "word": "medications",
+    "label": "P-trt",
+    "size": 1
+  },
+  {
+    "word": "smoking cessation treatment",
+    "label": "P-trt",
+    "size": 1
+  },
+  {
+    "word": "95 ci",
+    "label": "M-sts",
+    "size": 19
+  },
+  {
+    "word": "association",
+    "label": "M-sts",
+    "size": 14
+  },
+  {
+    "word": "aor",
+    "label": "M-sts",
+    "size": 12
+  },
+  {
+    "word": "95 confidence interval",
+    "label": "M-sts",
+    "size": 8
+  },
+  {
+    "word": "adjust odd ratio",
+    "label": "M-sts",
+    "size": 5
+  },
+  {
+    "word": "ci",
+    "label": "M-sts",
+    "size": 5
+  },
+  {
+    "word": "predictor",
+    "label": "M-sts",
+    "size": 4
+  },
+  {
+    "word": "percent",
+    "label": "M-sts",
+    "size": 3
+  },
+  {
+    "word": "odd ratio",
+    "label": "M-sts",
+    "size": 3
+  },
+  {
+    "word": "the odd of",
+    "label": "M-sts",
+    "size": 2
+  },
+  {
+    "word": "probability",
+    "label": "M-sts",
+    "size": 2
+  },
+  {
+    "word": "statistically significant",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "median",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "n=3039",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "n=19",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "n=10",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "averages",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "frequency",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "n=3368",
+    "label": "M-sts",
+    "size": 1
+  },
+  {
+    "word": "e cigarette",
+    "label": "T-etc",
+    "size": 25
+  },
+  {
+    "word": "electronic nicotine delivery systems",
+    "label": "T-etc",
+    "size": 1
+  },
+  {
+    "word": "ends",
+    "label": "T-etc",
+    "size": 1
+  },
+  {
+    "word": "smokeless tobacco",
+    "label": "T-oth",
+    "size": 6
+  },
+  {
+    "word": "snus",
+    "label": "T-oth",
+    "size": 1
+  },
+  {
+    "word": "smokeless",
+    "label": "T-oth",
+    "size": 1
+  },
+  {
+    "word": "transgender",
+    "label": "D-gen",
+    "size": 38
+  },
+  {
+    "word": "woman",
+    "label": "D-gen",
+    "size": 35
+  },
+  {
+    "word": "man",
+    "label": "D-gen",
+    "size": 30
+  },
+  {
+    "word": "gender",
+    "label": "D-gen",
+    "size": 16
+  },
+  {
+    "word": "gender minority",
+    "label": "D-gen",
+    "size": 11
+  },
+  {
+    "word": "male",
+    "label": "D-gen",
+    "size": 9
+  },
+  {
+    "word": "cisgender",
+    "label": "D-gen",
+    "size": 7
+  },
+  {
+    "word": "sex",
+    "label": "D-gen",
+    "size": 5
+  },
+  {
+    "word": "intersex",
+    "label": "D-gen",
+    "size": 5
+  },
+  {
+    "word": "female",
+    "label": "D-gen",
+    "size": 2
+  },
+  {
+    "word": "sexuality",
+    "label": "D-gen",
+    "size": 1
+  },
+  {
+    "word": "female-to-male",
+    "label": "D-gen",
+    "size": 1
+  },
+  {
+    "word": "male-to-female",
+    "label": "D-gen",
+    "size": 1
+  },
+  {
+    "word": "population assessment of tobacco and health",
+    "label": "M-dat",
+    "size": 4
+  },
+  {
+    "word": "path",
+    "label": "M-dat",
+    "size": 4
+  },
+  {
+    "word": "national adult tobacco survey",
+    "label": "M-dat",
+    "size": 3
+  },
+  {
+    "word": "behavioral risk factor surveillance system",
+    "label": "M-dat",
+    "size": 3
+  },
+  {
+    "word": "national epidemiologic survey on alcohol and related conditions",
+    "label": "M-dat",
+    "size": 1
+  },
+  {
+    "word": "brfss",
+    "label": "M-dat",
+    "size": 1
+  },
+  {
+    "word": "brand",
+    "label": "C-oth",
+    "size": 16
+  },
+  {
+    "word": "additive",
+    "label": "C-dgn",
+    "size": 10
+  },
+  {
+    "word": "alcohol",
+    "label": "C-flv",
+    "size": 9
+  },
+  {
+    "word": "menthol",
+    "label": "C-flv",
+    "size": 8
+  },
+  {
+    "word": "non menthol",
+    "label": "C-flv",
+    "size": 2
+  },
+  {
+    "word": "flavor",
+    "label": "C-flv",
+    "size": 1
+  },
+  {
+    "word": "advertisement",
+    "label": "P-mkt",
+    "size": 10
+  },
+  {
+    "word": "retailer",
+    "label": "P-mkt",
+    "size": 7
+  },
+  {
+    "word": "advertising",
+    "label": "P-mkt",
+    "size": 4
+  },
+  {
+    "word": "denormalizing",
+    "label": "P-mkt",
+    "size": 1
+  },
+  {
+    "word": "lung cancer",
+    "label": "B-hlt",
+    "size": 5
+  },
+  {
+    "word": "mortality",
+    "label": "B-hlt",
+    "size": 4
+  },
+  {
+    "word": "cancer",
+    "label": "B-hlt",
+    "size": 2
+  },
+  {
+    "word": "cardiovascular disease",
+    "label": "B-hlt",
+    "size": 1
+  },
+  {
+    "word": "chronic obstructive pulmonary disease",
+    "label": "B-hlt",
+    "size": 1
+  },
+  {
+    "word": "heart disease",
+    "label": "B-hlt",
+    "size": 1
+  },
+  {
+    "word": "exposure",
+    "label": "B-exp",
+    "size": 19
+  },
+  {
+    "word": "food and drug association",
+    "label": "P-bod",
+    "size": 1
+  },
+  {
+    "word": "fda",
+    "label": "P-bod",
+    "size": 1
+  }
+]
